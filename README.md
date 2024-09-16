@@ -1,1 +1,3 @@
-Job Prospect Skeptics
+Job Prospect Skeptics:
+Conducted data analysis to explore global job prospects for data scientists, involving the cleaning and preprocessing of two datasets with Python (pandas, numpy). Developed predictive models using supervised machine learning techniques, providing actionable insights into salary trends and layoff patterns, and demonstrating skills in feature engineering and model evaluation.
+Designed interactive data visualizations using Plotly Dash and created choropleth maps to display salary and layoff trends across 30 countries, enabling a 25% increase in stakeholder understanding of industry-specific job stability.
